@@ -1,0 +1,1 @@
+These exercises are from the book "Learn Python the Hard Way" by Zed Shaw.
